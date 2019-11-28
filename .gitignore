@@ -2,3 +2,9 @@
 algorithms_data_structures_python/.DS_Store
 
 .DS_Store
+
+.mypy_cache/
+.vscode/
+.idea/
+
+*.pyc
