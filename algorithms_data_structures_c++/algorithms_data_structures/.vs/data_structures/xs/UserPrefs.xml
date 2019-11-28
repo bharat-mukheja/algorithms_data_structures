@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{92CD2D8E-18EB-4354-89F0-33F376022F1D}|Default">
+  <MonoDevelop.Ide.ItemProperties.data__structures FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="data_structures" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/bmukheja/Dropbox/github/Interview Prep/LeetCode/data_structures/data_structures/data_structures</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
